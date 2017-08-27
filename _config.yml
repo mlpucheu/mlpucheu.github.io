@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+title: LauraPucheu
+email: "mlaurapucheu@gmail.com"
+description: "Descrição do blog"
+url: "https://mlpucheu.github.io"
+baseurl: ""
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://mlpucheu.github.io/gallery/"  
+  - JOURNAL: "https://mlpucheu.github.io/journal/"
+  - ABOUT: "https://mlpucheu.github.io/about/"
 
 # All translation keys
 translations:
